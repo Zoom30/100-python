@@ -1,0 +1,37 @@
+api_keys.py
+*.jpg
+.DS_Store
+json_playground.json
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+*.cache
+Web\ dev/
+Web dev/
+Web dev
+__pycache__
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+geckodriver.log
+IMG-20150519-WA0006.jpg
+*.pyc
