@@ -35,3 +35,7 @@ Temporary Items
 geckodriver.log
 IMG-20150519-WA0006.jpg
 *.pyc
+
+
+
+*.html
