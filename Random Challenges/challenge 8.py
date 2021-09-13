@@ -100,9 +100,14 @@ class Warrior:
         elif self.level == 100:
             self.rank = self.ranks[10]
 
+    def training(self, details):
+        print(f"hello world {details[1]}")
+        return None
+
 
 goku = Warrior()
 goku.battle(enemy_level=9)
 print(goku.experience)
 print(goku.level)
 print(goku.rank)
+goku.training(["labi", 0, True])
