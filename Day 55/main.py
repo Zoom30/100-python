@@ -8,7 +8,7 @@ def greetings():
     return "greetings hello"
 
 
-@app.route("/<name>")
+@app.route("/username/<path:name>")
 def greet(name):
     return f"hello {name}"
 
