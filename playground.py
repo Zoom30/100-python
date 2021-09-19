@@ -1,3 +1,3 @@
-import random
+import datetime
 
-print(random.randint(1, 2))
+print()
